@@ -18,5 +18,5 @@ Définition des routes
 /*
 Exporter le module de route
 */
-  kmodule.exports = router;
+  module.exports = router;
 //
